@@ -1,0 +1,9 @@
+a = 2
+b = 3
+print ("Initial a = ", a)
+print ("Initial b = ", b)
+a = a + b
+b = a - b
+a = a - b
+print ("a = ", a)
+print ("b = ", b)
