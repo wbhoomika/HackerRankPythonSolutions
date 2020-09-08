@@ -1,3 +1,1 @@
-# HackerRankPythonSolutions
-
-Hey all, In this section you'll fine HackerRank Stage wise solutions.
+# Here are some basic python codes to start with.
